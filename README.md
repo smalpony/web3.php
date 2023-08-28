@@ -9,7 +9,6 @@
 
 A php interface for interacting with the Ethereum blockchain and ecosystem.
 
-作者TG：@ponyyun
 
 # Install
 
